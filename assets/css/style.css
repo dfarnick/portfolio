@@ -1,0 +1,42 @@
+#masthead{
+  margin-right: 225px;
+  color: #218FD4;
+}
+
+img{
+  height: 200px;
+}
+
+#profilePic{
+  height: 350px;
+}
+
+iframe{
+  height: 200px;
+}
+
+.card{
+  margin-top: 8px;
+}
+
+body{
+  background-image: url("http://sf.co.ua/14/02/wallpaper-997665.jpg");
+  background-color: black;
+  background-repeat: no-repeat;
+  height: 100%;  
+}
+p{
+  color: #218FD4;
+}
+
+h1{
+  color: gray;
+}
+
+h2{
+  color: black;
+	font-size: 60px;
+  -webkit-text-stroke: 2px #218FD4;
+  font-family: 'Kaushan Script', cursive; 
+  margin-left: 100px;
+}
