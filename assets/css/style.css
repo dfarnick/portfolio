@@ -17,6 +17,7 @@ iframe{
 
 .card{
   margin-top: 8px;
+  margin-right: 10px;
 }
 
 body{
@@ -38,5 +39,18 @@ h2{
 	font-size: 60px;
   -webkit-text-stroke: 2px #218FD4;
   font-family: 'Kaushan Script', cursive; 
-  margin-left: 100px;
+  
+}
+.row{
+  margin-right: 90px
+}
+.card-img-top {
+  width: 100%;
+  height: 15rem;
+}
+
+@media only screen and (max-width: 600px) {
+  h2 {
+    font-size: 50px;
+  }
 }
